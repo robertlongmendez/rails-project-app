@@ -1,5 +1,5 @@
 class BooksController < ApplicationController
-  def list
+  def booklist
   end
   def AddBook
   end
